@@ -1,0 +1,22 @@
+{
+  "name": "muzkat-vhs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzkat/vhs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muzkat/vhs/issues"
+  },
+  "homepage": "https://github.com/muzkat/vhs#readme",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
